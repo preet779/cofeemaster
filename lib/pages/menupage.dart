@@ -70,7 +70,7 @@ class productitem extends StatelessWidget {
                     onPressed: () {
                       onAdd(product);
                     },
-                    child: Text("Add to"),
+                    child: Text("Add me"),
                   ),
                 ),
               ],
